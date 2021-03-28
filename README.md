@@ -15,3 +15,7 @@ Android用的Facebook的litho，android_chat_litho目录
 ### IOS
 
 <img width="200"  src="https://github.com/JimsC/lilith_chat/blob/main/screen_shot/2/1.png?raw=true"/><img width="200"  src="https://github.com/JimsC/lilith_chat/blob/main/screen_shot/2/2.png?raw=true"/><img width="200"  src="https://github.com/JimsC/lilith_chat/blob/main/screen_shot/2/3.png?raw=true"/><img width="200"  src="https://github.com/JimsC/lilith_chat/blob/main/screen_shot/2/4.png?raw=true"/>
+
+### flutter_web
+<img width="400"  src="https://github.com/JimsC/lilith_chat/blob/main/screen_shot/3.png?raw=true"/>
+
